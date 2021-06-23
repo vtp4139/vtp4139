@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! Have a nice day. 👋
+- My full name is Võ Tuấn Phương.
+- A software developer.
 <!--
 **vtp4139/vtp4139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
