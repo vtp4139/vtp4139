@@ -1,6 +1,6 @@
 ### Hi there! Have a nice day. 👋
 - I am a software developer.
-- 🤔 Someone once said that bug can neither be created nor destroyed, can only transfer or change the bug from one form to another.
+- 🤔 Someone once said that <em>bug can neither be created nor destroyed, can only transfer or change the bug from one form to another</em>.
 <!--
 **vtp4139/vtp4139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
