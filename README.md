@@ -1,6 +1,6 @@
 ### Hi there! Have a nice day. 👋
-- My full name is Võ Tuấn Phương.
-- A software developer.
+- I am a software developer.
+- 🤔 Someone once said that bug can neither be created nor destroyed; can only transfer or change the bug from one form to another.
 <!--
 **vtp4139/vtp4139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
